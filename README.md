@@ -35,10 +35,11 @@ Libraries Used:
 7. firebase_storage: This is used to store Sellers Images, thier foods image.
 8. shared_preferences: Used to Save the Sellers data Locally.
 
-![e](https://user-images.githubusercontent.com/83778936/147323716-183576ac-b24e-4a8d-abd7-59d2491d0be4.png)
 ![a](https://user-images.githubusercontent.com/83778936/147323724-f1aec3dd-26da-4cf6-8e8b-1547af56d28a.png)
 ![b](https://user-images.githubusercontent.com/83778936/147323728-9e3b9ef0-cc75-4a16-b86f-0d34d2514cd0.png)
 ![c](https://user-images.githubusercontent.com/83778936/147323730-8032c762-c1f2-4d3e-b744-fb457d460c63.png)
 ![d](https://user-images.githubusercontent.com/83778936/147323731-487e4e6d-bbe2-4de5-83e6-5019a89071b6.png)
+![e](https://user-images.githubusercontent.com/83778936/147323716-183576ac-b24e-4a8d-abd7-59d2491d0be4.png)
+
 
 
